@@ -53,8 +53,8 @@ It uses Natural Language Processing and Machine Learning techniques to compute s
 ---
 
 ## 📁 Project Structure
-## Project Structure
----
+
+```bash
 movie_recommender_system/
 ├── app.py
 ├── Movie Recommendation System.ipynb
@@ -67,27 +67,16 @@ movie_recommender_system/
 │   └── movies.pkl
 └── README.md
 
----
 
 
-## 📸 Screenshots
-
-### 🎬 Movie Recommendation System UI
-
-<p align="center">
-  <img src="screenshots/home_page.png" width="800"/>
-</p>
-<p align="center"><b>Home Page - Movie Selection Interface</b></p>
-
-<p align="center">
-  <img src="screenshots/result_page.png" width="800"/>
-</p>
-<p align="center"><b>Recommendation Results using ML Model</b></p>
+📸 Screenshots
+🎬 Movie Recommendation System UI
+<p align="center"> <img src="screenshots/home_page.png" width="800"/> </p> <p align="center"><b>Home Page - Movie Selection Interface</b></p> <p align="center"> <img src="screenshots/result_page.png" width="800"/> </p> <p align="center"><b>Recommendation Results using ML Model</b></p>
 
 
----
 
-## 📌 Note
+📌 Note
 
 This project uses TMDB API for fetching movie posters. Make sure you have a valid API key configured in Streamlit secrets.
+
 
