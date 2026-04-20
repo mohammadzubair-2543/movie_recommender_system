@@ -53,20 +53,17 @@ It uses Natural Language Processing and Machine Learning techniques to compute s
 ---
 
 ## 📁 Project Structure
+## Project Structure
 movie_recommender_system/
-│
-├── app.py # Streamlit web app
+├── app.py
 ├── Movie Recommendation System.ipynb
 ├── requirements.txt
 ├── .gitignore
-│
 ├── .streamlit/
-│ └── secrets.toml # API keys (not pushed to GitHub)
-│
+│   └── secrets.toml
 ├── artifacts/
-│ ├── similarity.pkl
-│ └── movies.pkl
-│
+│   ├── similarity.pkl
+│   └── movies.pkl
 └── README.md
 
 ---
