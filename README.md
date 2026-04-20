@@ -53,7 +53,8 @@ It uses Natural Language Processing and Machine Learning techniques to compute s
 ---
 
 ## 📁 Project Structure
-## Project Structure
+
+```bash
 movie_recommender_system/
 ├── app.py
 ├── Movie Recommendation System.ipynb
@@ -65,7 +66,6 @@ movie_recommender_system/
 │   ├── similarity.pkl
 │   └── movies.pkl
 └── README.md
-
 ---
 
 
